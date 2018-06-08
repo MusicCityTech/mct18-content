@@ -3,4 +3,4 @@
 
 Slides can be found at: http://bit.ly/git-pushit
 
-Links to resources can be found within the slides, hover over something to see if it's a link!
+Resources can be found within the slides. Hover over something to see if it's a link!
